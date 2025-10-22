@@ -14,7 +14,7 @@ export default function Footer() {
         </div>
 
         <div className="flex gap-6 items-center">
-          <a href="https://github.com/hamiparsa" target="_blank" className="hover:text-white transition-colors">
+          <a href="https://github.com/honestdev125" target="_blank" className="hover:text-white transition-colors">
             <FaGithub className="text-2xl" />
           </a>
         </div>

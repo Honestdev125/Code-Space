@@ -1,7 +1,7 @@
 <div align="center">
   <h1>🎓 Code Space</h1>
   <p>Learn programming interactively — structured, modern, and engaging 💻</p>
-  <a href="https://hamiparsa.github.io/Code-Space/">
+  <a href="https://honestdev125.github.io/Code-Space/">
     <img src="https://img.shields.io/badge/View_Live_Project-1DB954?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </div>
@@ -84,7 +84,7 @@ Perfect for practicing **React**, **Next.js**, **TypeScript**, **Tailwind CSS**,
 
 ## 👨‍💻 Author
 
-**Developed by:** [Hami Parsa](https://github.com/hamiparsa)  
+**Developed by:** [Niku Namada](https://github.com/honestdev125)  
 💬 Front-End Developer | Passionate about interactive learning and modern UI  
 
 ---

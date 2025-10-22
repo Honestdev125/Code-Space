@@ -37,7 +37,7 @@ export default function Header() {
             </Link>
           ))}
           <a
-            href="https://github.com/hamiparsa"
+            href="https://github.com/honestdev125"
             target="_blank"
             className="hover:text-gray-200 transition-colors"
           >
@@ -73,7 +73,7 @@ export default function Header() {
             </Link>
           ))}
           <a
-            href="https://github.com/hamiparsa"
+            href="https://github.com/honestdev125"
             target="_blank"
             className="hover:text-gray-200 transition-colors"
           >
